@@ -12,7 +12,7 @@ local player = Players.LocalPlayer
 -- === RAYFIELD WINDOW ===
 local Window = Rayfield:CreateWindow({
     Name = "Christmas Event Auto Farm",
-    LoadingTitle = "Christmas Event Auto Farm",
+    LoadingTitle = "Игнорщик",
     LoadingSubtitle = "by Scripting",
     ConfigurationSaving = {
         Enabled = true,
